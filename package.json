@@ -1,0 +1,28 @@
+{
+  "name": "lit-element-internationalization",
+  "version": "0.0.0",
+  "description": "LitElement Internationalization.",
+  "main": "lit-element-internationalization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamedasemi/lit-element-internationalization.git"
+  },
+  "keywords": [
+    "lit",
+    "element",
+    "i18n",
+    "internationalization",
+    "lit-element",
+    "lit-element-i18n",
+    "lit-element-internationalization"
+  ],
+  "author": "hamedabolghasemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamedasemi/lit-element-internationalization/issues"
+  },
+  "homepage": "https://github.com/hamedasemi/lit-element-internationalization#readme"
+}
